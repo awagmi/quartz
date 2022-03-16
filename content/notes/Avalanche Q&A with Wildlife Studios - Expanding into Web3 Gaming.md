@@ -73,7 +73,7 @@ URL: https://twitter.com/i/spaces/1OdKrBgeddqKX
 
 ## Metrics to gauge success
 - Monthly active users
-- [[Lifetime Value]]
+- [Lifetime Value](Lifetime%20Value.md)
 - Conversion of current playerbase to the [NFT](notes/NFT.md)s
 - Retention - tracking and determining the effect of [NFT](notes/NFT.md)s in game.
 

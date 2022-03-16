@@ -6,5 +6,5 @@ disableToc: false #no table of contents
 Speaker(s):
 Tags:
 Held on:
-Written on: [[{{date}}]]
+Written on: <% tp.date.now("DD-MM-YYYY", -1) %>
 URL:
