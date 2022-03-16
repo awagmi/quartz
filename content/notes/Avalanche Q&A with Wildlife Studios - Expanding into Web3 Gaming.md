@@ -47,7 +47,7 @@ URL: https://twitter.com/i/spaces/1OdKrBgeddqKX
 [@0xJ010](notes/@0xJ010.md):  
 - [Castle Crush](notes/Castle%20Crush.md) community has not manifested any negative sentiment about push to [NFT](notes/NFT.md)s yet
 - Most were quite excited about new content to the game
-- Anti-nft sentiment mischaracterized, maybe due to uncertaincy in direction
+- Anti-nft sentiment mischaracterized, maybe due to uncertainty in direction
 
 ## Tackling a web2 audience
 - Most players dont really know how [NFT](notes/NFT.md)s work
@@ -63,8 +63,8 @@ URL: https://twitter.com/i/spaces/1OdKrBgeddqKX
 ## Subnet
 [Castle Crush Subnet](Castle%20Crush%20Subnet.md) (name not mentioned)
 - **gasless** to minimize friction
-- marketplace will [$ACS](notes/$ACS.md), [$AVAX](notes/$AVAX.md)
-- Automatic wallet creation allowed instantenous earning once they start playing the game
+- marketplace will use [$ACS](notes/$ACS.md), [$AVAX](notes/$AVAX.md)
+- Automatic wallet creation allowed instantaneous earning once they start playing the game
 
 [Validators](Validators.md)
 - Initial validators will be the team
@@ -73,7 +73,7 @@ URL: https://twitter.com/i/spaces/1OdKrBgeddqKX
 ## Metrics to gauge success
 - Monthly active users
 - [Lifetime Value](Lifetime%20Value.md)
-- Conversion of current playerbase to the [NFT](notes/NFT.md)s
+- Conversion of current player base to the [NFT](notes/NFT.md)s
 - Retention - tracking and determining the effect of [NFT](notes/NFT.md)s in game.
 
 
