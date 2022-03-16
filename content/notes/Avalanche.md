@@ -1,5 +1,7 @@
 ---
-title: "<% tp.file.title %>"
+title: "Avalanche"
 disableToc: false #no table of contents
 ---
+
+
 

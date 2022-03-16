@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: "@chikn_nft"
 disableToc: false #no table of contents
 ---
 

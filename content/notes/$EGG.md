@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: "$EGG"
 disableToc: false #no table of contents
 ---
 

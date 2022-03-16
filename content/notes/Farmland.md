@@ -1,5 +1,9 @@
 ---
-title: "<% tp.file.title %>"
+title: "Farmland"
+tags:
+- avax-eco
+- chikn-eco
 disableToc: false #no table of contents
 ---
+
 

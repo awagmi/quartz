@@ -1,27 +1,30 @@
 ---
-title: 🪴 Quartz 3.1
+title: "AWAGMI?"
+disableToc: false #no table of contents
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
+Intern Notes and bonus graph views from the Zettalkasten notetaking style
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+## Intern Notes
+### March 2022
+[Avalanche QnA with Chikn - Farmland and the New Era of NFTs](notes/Avalanche%20QnA%20with%20Chikn%20-%20Farmland%20and%20the%20New%20Era%20of%20NFTs.md) &nbsp;  
+[Avalanche Q&A with Wildlife Studios - Expanding into Web3 Gaming](notes/Avalanche%20Q&A%20with%20Wildlife%20Studios%20-%20Expanding%20into%20Web3%20Gaming.md)
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
+## My links
+[My Substack](notes/My%20Substack.md) \
+[FeedMe](notes/FeedMe.md)

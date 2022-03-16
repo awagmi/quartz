@@ -1,5 +1,5 @@
 ---
-title: "<% tp.file.title %>"
+title: "Castle Crush Subnet"
 disableToc: false #no table of contents
 ---
 

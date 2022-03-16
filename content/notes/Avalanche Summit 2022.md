@@ -1,5 +1,6 @@
 ---
-title: "<% tp.file.title %>"
+title: "Avalanche Summit 2022"
 disableToc: false #no table of contents
 ---
+
 

@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.10
+        uses: jackyzha0/hugo-obsidian@v2.9
         with:
           index: true
           input: content
@@ -34,4 +34,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: quartz.jzhao.xyz
+          cname: notes.awagmi.xyz

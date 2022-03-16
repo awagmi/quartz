@@ -1,5 +1,6 @@
 ---
-title: "<% tp.file.title %>"
+title: "LP farm"
 disableToc: false #no table of contents
 ---
+
 

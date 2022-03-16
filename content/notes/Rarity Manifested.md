@@ -1,5 +1,6 @@
 ---
-title: "<% tp.file.title %>"
+title: "Rarity Manifested"
 disableToc: false #no table of contents
 ---
+
 
