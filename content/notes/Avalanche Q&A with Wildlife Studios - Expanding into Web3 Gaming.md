@@ -8,7 +8,6 @@ disableToc: false #no table of contents
 ---
 
 Speaker(s): [@avalancheavax](notes/@avalancheavax.md), [@EdC](notes/@EdC.md), [@NFT_Silent](notes/@NFT_Silent.md), [@0xJ010](notes/@0xJ010.md) &nbsp;  
-Tags: #avax-eco #gamefi &nbsp;  
 Held on: [16-03-2022](16-03-2022.md) &nbsp;  
 Written on: [16-03-2022](16-03-2022.md) &nbsp;  
 URL: https://twitter.com/i/spaces/1OdKrBgeddqKX
