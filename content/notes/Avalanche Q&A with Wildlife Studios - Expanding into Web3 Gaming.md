@@ -80,7 +80,7 @@ URL: https://twitter.com/i/spaces/1OdKrBgeddqKX
 
 ## Future Projects
 * 2nd web3 project - shooter battle arena 4v4 multiplayer game
-	* focus on production quality
+	* Focus on production quality
 	* **Q2-Q3 2022**
 *  3rd web3 project
 	* Still developing internally
