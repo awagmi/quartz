@@ -15,7 +15,8 @@ This is a summary of the whitepaper in the URL above.
 
 ## TLDR
 [Layer Zero](notes/Layer%20Zero.md) - a Trustless Omnichain interoperability protocol  
-- Allows 2 separate blockchains to communicate using 2 independent components 
+- Allows 2 separate blockchains to communicate using 2 independent components
+	- Basically, you get these two independent components to make sure the transactions are valid from the sender before the receiver decides to anything
 - General communication layer, NOT a blockchain
 - Touts benefits of being less complex, less overheads, and being able to extend to any blockchain without being hindered by its native SDK.
 
