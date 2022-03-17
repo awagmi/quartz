@@ -90,7 +90,7 @@ Off-chain service that fetches proof for a specific transaction
 3. [Multi-Chain](notes/Multi-Chain.md) [Lending](notes/Lending.md)
 
 ## Example transactions
-Refer to this [tweet](https://twitter.com/ryanzarick/status/1503893827525951489) here.  
+Refer to this [tweet](https://twitter.com/ryanzarick/status/1503893827525951489) here.   
 The [Ethereum](notes/Ethereum.md) message was sent at Mar-15-2022 05:46:00 PM +UTC
 1. [Ethereum](notes/Ethereum.md) received message 5 min later at 05:55:16 PM +UTC
 2. [Fantom](notes/Fantom.md) received message 8 min later at 06:03:19 PM +UTC
