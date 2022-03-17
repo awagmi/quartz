@@ -16,7 +16,7 @@ This is a summary of the whitepaper in the URL above.
 ## TLDR
 [Layer Zero](notes/Layer%20Zero.md) - a Trustless Omnichain interoperability protocol  
 - Allows 2 separate blockchains to communicate using 2 independent components 
-- general communication layer, NOT a blockchain
+- General communication layer, NOT a blockchain
 - Touts benefits of being less complex, less overheads, and being able to extend to any blockchain without being hindered by its native SDK.
 
 ## Introduction
@@ -52,7 +52,7 @@ Bandaid measures:
 Communication protocol which provides trustless [Valid Delivery](notes/Valid%20Delivery.md)
 ### Components
 #### Endpoints
-[Smart Contracts](notes/Smart%20Contracts.md) which implement 4 modules which basically send information with each other:
+[Smart Contracts](notes/Smart%20Contracts.md) which implement 4 modules which basically share information with each other:
 1. Communicator
 2. Validator
 3. Network
@@ -69,19 +69,19 @@ Off-chain service that fetches proof for a specific transaction
 ### Steps
 ![](notes/images/Pasted%20image%2020220317234427.png)
 **Simplified Version with less jargon**   
-1. Person A on Chain A wants to send a *message* to Chain B using an application. Application tells the Communicator A relevant details about where the *message* wants to go
-2. Communicator A tells Validator A that there is a *message* to be validated
-3. (step 3 and 4 happen concurrently) Validator A tells Network A that the block header needs to be sent to Chain B
-4. (step 3 and 4 happen concurrently) Validator A tells Relayer A that he needs the proof that the *message* on Chain A has been sent. 
-5. Network A tells Oracle to send current block header H of Chain A to Chain B
-6. (step 6 and 7 happen asynchronously) Oracle gets current block header from Chain A
-7. (step 6 and 7 happen asynchronously) Relayer gets the transaction proof of the *message* from Chain A, and stores it off-chain
-8. Oracle confirms that the block referred to by block header H is finalized, then sends H to Chain B
+1. Person A on Chain A wants to send a *`message`* to Chain B using an application. Application tells the Communicator A relevant details about where the *`message`* wants to go
+2. Communicator A tells Validator A that there is a *`message`* to be validated
+3. (step 3 and 4 happen concurrently) Validator A tells Network A that the **block header H** needs to be sent to Chain B
+4. (step 3 and 4 happen concurrently) Validator A tells Relayer A that he needs the proof that the *`message`* on Chain A has been sent. 
+5. Network A tells Oracle to send current **block header H** of Chain A to Chain B
+6. (step 6 and 7 happen asynchronously) Oracle gets current **block header H** from Chain A
+7. (step 6 and 7 happen asynchronously) Relayer gets the *message transaction proof* of the *`message`* from Chain A, and stores it off-chain
+8. Oracle confirms that the block referred to by **block header H** is finalized, then sends H to Chain B
 9. Network B receives the block header hash, and gives it to Validator B
 10. Validator B sends the hash to Relayer B
-11. Relayer B sends the *message* and message transaction proof to Validator B
-12. Validator B gets both the *message* and message transaction proof, and checks if the proof and the block header it received in step 9 matches. If yes, send *message* to communicator.
-13. Communicator will send *message* to App B.
+11. Relayer B sends the *`message`* and *message transaction proof* to Validator B
+12. Validator B gets both the *`message`* and *message transaction proof*, and checks if the *proof* and the **block header H** it received in step 9 matches. If yes, send *`message`* to communicator.
+13. Communicator will send *`message`* to App B.
 
 
 ## Application
