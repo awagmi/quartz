@@ -6,10 +6,10 @@ tags:
 disableToc: false #no table of contents
 ---
 
-Author(s): [Ryan Zarick](notes/Ryan%20Zarick.md), [Bryan Pellegrino](notes/Bryan%20Pellegrino.md), [Caleb Banister](notes/Caleb%20Banister.md)  
-Submitted on: [26-05-2021](notes/26-05-2021.md)  
-Written on: [16-03-2022](notes/16-03-2022.md)  
-URL: https://layerzero.network/pdf/LayerZero_Whitepaper_Release.pdf  
+Author(s): [Ryan Zarick](notes/Ryan%20Zarick.md), [Bryan Pellegrino](notes/Bryan%20Pellegrino.md), [Caleb Banister](notes/Caleb%20Banister.md)
+Submitted on: [26-05-2021](notes/26-05-2021.md)
+Written on: [16-03-2022](notes/16-03-2022.md)
+URL: https://layerzero.network/pdf/LayerZero_Whitepaper_Release.pdf
 
 This is a summary of the whitepaper in the URL above. 
 
@@ -37,16 +37,16 @@ Bandaid measures:
 
 
 ## Related Work
-1. [Ethereum](notes/Ethereum.md) - original [Ethereum Virtual Machine](notes/Ethereum%20Virtual%20Machine.md) chain, but low 15-45tps makes it hard to scale  
+[Ethereum](notes/Ethereum.md) - original [Ethereum Virtual Machine](notes/Ethereum%20Virtual%20Machine.md) chain, but low 15-45tps makes it hard to scale  
 [Polygon](notes/Polygon.md) - [Layer 2](notes/Layer%202.md) [Sidechain](notes/Sidechain.md)  
-2. [PolkaDot](notes/PolkaDot.md) - [Parachains](notes/Parachains.md) are interlinked via a common relay chain. However there is additional cost when using this relay chain  
-3. [THORChain](notes/THORChain.md) - Uses pairwise liquidity pools to bind 3rd party currency to [$RUNE](notes/$RUNE.md). While authors acknowledge it solves  the scalability problem, it is cumbersome to use as a simple transaction can be quite complicated  
-4. [AnySwap](notes/AnySwap.md) - [Decentralized Exchange](notes/Decentralized%20Exchange.md) which relies on intermediate token [$ANY](notes/$ANY.md) , similar to [THORChain](notes/THORChain.md). Similar issues too
-5. [Cosmos](notes/Cosmos.md) - [Inter-Blockchain Communication](notes/Inter-Blockchain%20Communication.md) built on [Tendermint BFT](notes/Tendermint%20BFT.md) which allows messaging between chains built on the hub  
-	- [Inter-Blockchain Communication](notes/Inter-Blockchain%20Communication.md) requires a full on chain [Light node](notes/Light%20node.md) of each chain  
-	- Only provides direct communication between fast finality chains  
-	- [Gravity Bridge](notes/Gravity%20Bridge.md) - [AnySwap](notes/AnySwap.md) and [Cosmos](notes/Cosmos.md) equivalent   
-6. [Chainlink](notes/Chainlink.md) - Framework for building   
+[PolkaDot](notes/PolkaDot.md) - [Parachains](notes/Parachains.md) are interlinked via a common relay chain. However there is additional cost when using this relay chain  
+[THORChain](notes/THORChain.md) - Uses pairwise liquidity pools to bind 3rd party currency to [$RUNE](notes/$RUNE.md). While authors acknowledge it solves  the scalability problem, it is cumbersome to use as a simple transaction can be quite complicated  
+[AnySwap](notes/AnySwap.md) - [Decentralized Exchange](notes/Decentralized%20Exchange.md) which relies on intermediate token [$ANY](notes/$ANY.md) , similar to [THORChain](notes/THORChain.md). Similar issues too
+[Cosmos](notes/Cosmos.md) - [Inter-Blockchain Communication](notes/Inter-Blockchain%20Communication.md) built on [Tendermint BFT](notes/Tendermint%20BFT.md) which allows messaging between chains built on the hub  
+- [Inter-Blockchain Communication](notes/Inter-Blockchain%20Communication.md) requires a full on chain [Light node](notes/Light%20node.md) of each chain  
+- Only provides direct communication between fast finality chains  
+- [Gravity Bridge](notes/Gravity%20Bridge.md) - [AnySwap](notes/AnySwap.md) and [Cosmos](notes/Cosmos.md) equivalent   
+[Chainlink](notes/Chainlink.md) - Framework for building   
 
 ## How does LayerZero Work?
 Communication protocol which provides trustless [Valid Delivery](notes/Valid%20Delivery.md)
@@ -80,8 +80,8 @@ Off-chain service that fetches proof for a specific transaction
 9. Network B receives the block header hash, and gives it to Validator B
 10. Validator B sends the hash to Relayer B
 11. Relayer B sends the *message* and message transaction proof to Validator B
-12. Validator B gets both the *message* and message transaction proof, and checks if the proof and the block header it received in step 9 matches. If yes, send *message* to communicator.
-13. Communicator will send *message* to App B.
+12. Validator B gets both the message and message transaction proof, and checks if the proof and the block header it received in step 9 matches. If yes, send message to communicator
+13. Communicator will send message to App B.
 
 
 ## Application
@@ -90,8 +90,8 @@ Off-chain service that fetches proof for a specific transaction
 3. [Multi-Chain](notes/Multi-Chain.md) [Lending](notes/Lending.md)
 
 ## Example transactions
-Refer to this [tweet](https://twitter.com/ryanzarick/status/1503893827525951489) here.  
-The [Ethereum](notes/Ethereum.md) message was sent at Mar-15-2022 05:46:00 PM +UTC
+[tweet](https://twitter.com/ryanzarick/status/1503893827525951489)   
+From this tweet, the [Ethereum](notes/Ethereum.md) message was sent at Mar-15-2022 05:46:00 PM +UTC
 1. [Ethereum](notes/Ethereum.md) received message 5 min later at 05:55:16 PM +UTC
 2. [Fantom](notes/Fantom.md) received message 8 min later at 06:03:19 PM +UTC
 3. [Polygon](notes/Polygon.md) received message 2 hours later at 07:51:29 PM +UTC
