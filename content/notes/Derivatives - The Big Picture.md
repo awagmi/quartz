@@ -3,12 +3,13 @@ title: Derivatives - The Big Picture
 tags:
 - Avalanche-summit
 - avax-eco
+- defi
 disableToc: false #no table of contents
 ---
 
 Speaker(s): [Christine Lee](notes/Christine%20Lee.md), [Anand Gomes](notes/Anand%20Gomes.md) (not present), [Darius Sit](notes/Darius%20Sit.md), [Joshua Lim](notes/Joshua%20Lim.md)  
 Held on: [21-03-2022](notes/21-03-2022.md)  
-Written on: [[21-03-2022]]   
+Written on: [21-03-2022](notes/21-03-2022.md)   
 
 
 [Ribbon Finance](notes/Ribbon%20Finance.md) 
@@ -21,8 +22,8 @@ Written on: [[21-03-2022]]
 - How decentralized are you?
 	- if things goes down, users can always interact with the smart contract (unlike [DyDx](notes/DyDx.md))
 - How are you dealing with regulations?
-	- Going with the flow, dealing with regulators as they flow
-	- based in singapore (for now lol)
+	- Going with the flow, dealing with regulators as they come
+	- based in Singapore (for now lol)
 
 
 [Paradigm](notes/Paradigm.md)
@@ -54,5 +55,5 @@ Written on: [[21-03-2022]]
 	- good way for [Decentralized Finance](notes/Decentralized%20Finance.md) to expand is to use yields from outside (ie non crypto?)
 	- trend of more people having a larger % of their networth in metamask as compared to banks
 - [Paradigm](notes/Paradigm.md)
-	- Crypto space has already been proactive about regulations, but still remains a huge vulnerabilities 
+	- Crypto space has already been proactive about regulations, but still remains a huge vulnerability 
 
