@@ -7,9 +7,9 @@ tags:
 disableToc: false #no table of contents
 ---
 
-Speaker(s): [John Nahas](notes/John%20Nahas.md), [Harold Bosse](notes/Harold%20Bosse.md) ([Mastercard](notes/Mastercard.md))
-Held on: [[21-03-2022]]   
-Written on: [[21-03-2022]]   
+Speaker(s): [John Nahas](notes/John%20Nahas.md), [Harold Bosse](notes/Harold%20Bosse.md) ([Mastercard](notes/Mastercard.md))  
+Held on: [21-03-2022](notes/21-03-2022.md)   
+Written on: [21-03-2022](notes/21-03-2022.md)   
 
 
 ## Where are we in the Defi landscape
