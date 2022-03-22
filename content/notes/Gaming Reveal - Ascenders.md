@@ -12,7 +12,7 @@ Held on: [[21-03-2022]]
 Written on: [[21-03-2022]]  
 
 ## Background
-[Ascenders](notes/Ascenders.md)
+[Ascenders](notes/Ascenders.md) on [Avalanche](notes/Avalanche.md)
 * inspired by zelda botw2, lego
 * Classes![](notes/images/Pasted%20image%2020220322230615.png)
 	* Fighter - combat forward, for hardcore players
