@@ -20,7 +20,7 @@ Written on: [21-03-2022](notes/21-03-2022.md)
 	* Builder - collect nfts
 * Team - [Jackson Poon](notes/Jackson%20Poon.md) (CEO), [Will Davis](notes/Will%20Davis.md), [Chris Rothwell](notes/Chris%20Rothwell.md)
 
-## Economy
+## Economy 
 ![](notes/images/Pasted%20image%2020220322230715.png)
 
 * No ponzinomics lol
