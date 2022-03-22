@@ -1,5 +1,6 @@
 ---
 title: Game-Changing Trends
+tags:
 - Avalanche-summit
 - avax-eco
 disableToc: false #no table of contents
@@ -9,3 +10,6 @@ Speaker(s): [Marc Zeller](notes/Marc%20Zeller.md), [Grace Kwan](notes/Grace%20Kw
 Held on: [21-03-2022](notes/21-03-2022.md)  
 Written on: [21-03-2022](notes/21-03-2022.md)   
 
+
+
+[Aave](notes/Aave.md)

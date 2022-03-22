@@ -8,3 +8,4 @@ disableToc: false #no table of contents
 
 ## Day 1
 [Derivatives - The Big Picture](notes/Derivatives%20-%20The%20Big%20Picture.md)
+[Game-Changing Trends](notes/Game-Changing%20Trends.md)
