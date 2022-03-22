@@ -13,8 +13,8 @@ disableToc: false #no table of contents
 [Gaming Reveal - Crabada](notes/Gaming%20Reveal%20-%20Crabada.md)   
 [Gaming Reveal - Ascenders](notes/Gaming%20Reveal%20-%20Ascenders.md)   
 [Gaming Reveal - Wildlife Studios](notes/Gaming%20Reveal%20-%20Wildlife%20Studios.md)
-
-
+  
+## Day 2
 
 ## Unfinished
 ### Day 1
