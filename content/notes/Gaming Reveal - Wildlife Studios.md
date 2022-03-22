@@ -7,9 +7,9 @@ tags:
 disableToc: false #no table of contents
 ---
 
-Speaker(s): [Fernando Sette](notes/Fernando%20Sette.md)   
-Held on: [[21-03-2022]]     
-Written on: [[21-03-2022]]     
+Speaker(s): [Fernando Sette](notes/Fernando%20Sette.md)    
+Held on: [21-03-2022](notes/21-03-2022.md)     
+Written on: [21-03-2022](notes/21-03-2022.md)     
 
 ## Background
 * Vision - attract and develop the most amazing game designers
