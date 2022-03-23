@@ -15,7 +15,7 @@ disableToc: false #no table of contents
 [Avalanche Summit 2022 - Gaming Reveal - Wildlife Studios](notes/Avalanche%20Summit%202022%20-%20Gaming%20Reveal%20-%20Wildlife%20Studios.md)  
   
 ## Day 2
-[Avalanche Summit 2022 - The Perfect Mint - Smart contract, Metadata, and IPFS – what's the best and most secure formula](notes/Avalanche%20Summit%202022%20-%20The%20Perfect%20Mint%20-%20Smart%20contract,%20Metadata,%20and%20IPFS%20–%20what's%20the%20best%20and%20most%20secure%20formula.md)  
+[Avalanche Summit 2022 - The Perfect Mint - Smart contract, Metadata, and IPFS](notes/Avalanche%20Summit%202022%20-%20The%20Perfect%20Mint%20-%20Smart%20contract,%20Metadata,%20and%20IPFS.md)  
 [Avalanche Summit 2022 - LayerZero](notes/Avalanche%20Summit%202022%20-%20LayerZero.md)  
 [Avalanche Summit 2022 - The Year of Gaming Subnets](notes/Avalanche%20Summit%202022%20-%20The%20Year%20of%20Gaming%20Subnets.md)  
 [Avalanche Summit 2022 - Digital Collectibles](notes/Avalanche%20Summit%202022%20-%20Digital%20Collectibles.md)  
