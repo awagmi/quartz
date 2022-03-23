@@ -12,9 +12,9 @@ Held on: [22-03-2022](notes/22-03-2022.md)
 Written on: [22-03-2022](notes/22-03-2022.md)   
 
 ## Problems with the metaverse
-[Ragnarok](notes/Ragnarok.md)
+[Ragnarok](notes/Ragnarok.md) on [Avalanche](notes/Avalanche.md)
 ![](notes/images/Pasted%20image%2020220323225259.png) 
-- [[Play2Earn]] games = Click to earn. Not fun!
+- [Play2Earn](notes/Play2Earn.md) games = Click to earn. Not fun!
 - AAA games takes lots of resources (time, money, hardware) to build
 - [Ragnarok](notes/Ragnarok.md) = LORE + WEB3 + META RPG
 
