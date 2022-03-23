@@ -1,5 +1,5 @@
 ---
-title: How Should Founders Look at VCs
+title: Avalanche Summit 2022 - How Should Founders Look at VCs
 tags:
 - Avalanche-summit
 - avax-eco

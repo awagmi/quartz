@@ -1,5 +1,5 @@
 ---
-title: Gaming Reveal - Ascenders
+title: Avalanche Summit 2022 - Gaming Reveal - Ascenders
 tags:
 - Avalanche-summit
 - avax-eco

@@ -1,5 +1,5 @@
 ---
-title: Gaming Reveal - Wildlife Studios
+title: Avalanche Summit 2022 - Gaming Reveal - Wildlife Studios
 tags:
 - Avalanche-summit
 - avax-eco

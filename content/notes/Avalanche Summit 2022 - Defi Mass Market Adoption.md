@@ -1,5 +1,5 @@
 ---
-title: Defi Mass Market Adoption
+title: Avalanche Summit 2022 - Defi Mass Market Adoption
 tags:
 - Avalanche-summit
 - avax-eco

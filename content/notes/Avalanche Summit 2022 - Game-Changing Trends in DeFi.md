@@ -1,5 +1,5 @@
 ---
-title: Game-Changing Trends
+title: Avalanche Summit 2022 - Game-Changing Trends
 tags:
 - Avalanche-summit
 - avax-eco

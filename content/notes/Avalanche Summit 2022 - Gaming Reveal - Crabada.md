@@ -1,5 +1,5 @@
 ---
-title: Gaming Reveal - Crabada
+title: Avalanche Summit 2022 - Gaming Reveal - Crabada
 tags:
 - Avalanche-summit
 - avax-eco

@@ -1,5 +1,5 @@
 ---
-title: "Layer Zero"
+title: "John Wu"
 disableToc: false #no table of contents
 ---
 

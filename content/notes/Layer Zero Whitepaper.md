@@ -14,7 +14,7 @@ URL: https://layerzero.network/pdf/LayerZero_Whitepaper_Release.pdf
 This is a summary of the whitepaper in the URL above. 
 
 ## TLDR
-[Layer Zero](notes/Layer%20Zero.md) - a Trustless Omnichain interoperability protocol  
+[LayerZero](notes/LayerZero.md) - a Trustless Omnichain interoperability protocol  
 - Allows 2 separate blockchains to communicate using 2 independent components
 	- Basically, you get these two independent components to make sure the transactions are valid from the sender before the receiver decides to anything
 - General communication layer, NOT a blockchain
@@ -32,7 +32,7 @@ Bandaid measures:
 	- Relies on protocol specific intermediate tokens or intermediate consensus layers
 
 ### Solution
-[Layer Zero](notes/Layer%20Zero.md), a **communication primitive**, allows transactions between multiple blockchain using
+[LayerZero](notes/LayerZero.md), a **communication primitive**, allows transactions between multiple blockchain using
 - allows transactions between multiple [Layer 1](notes/Layer%201.md) or [Layer 2](notes/Layer%202.md) chains.
 - Intuition: if two independent entities can corroborate the validity of a transaction, then Chain B can be sure the transaction from Chain A is valid
 

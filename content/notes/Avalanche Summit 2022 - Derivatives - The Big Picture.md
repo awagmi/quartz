@@ -1,5 +1,5 @@
 ---
-title: Derivatives - The Big Picture
+title: Avalanche Summit 2022 - Derivatives - The Big Picture
 tags:
 - Avalanche-summit
 - avax-eco
@@ -24,6 +24,7 @@ Written on: [21-03-2022](notes/21-03-2022.md)
 - How are you dealing with regulations?
 	- Going with the flow, dealing with regulators as they come
 	- based in Singapore (for now lol)
+- Coming to [Avalanche](notes/Avalanche.md)
 
 
 [Paradigm](notes/Paradigm.md)
