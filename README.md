@@ -1,4 +1,5 @@
 # Quartz
+[![Deploy to GitHub Pages](https://github.com/awagmi/quartz/actions/workflows/deploy.yaml/badge.svg)](https://github.com/awagmi/quartz/actions/workflows/deploy.yaml)[![pages-build-deployment](https://github.com/awagmi/quartz/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/awagmi/quartz/actions/workflows/pages/pages-build-deployment)
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 
