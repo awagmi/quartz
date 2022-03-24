@@ -19,4 +19,4 @@ Written on: [23-03-2022](notes/23-03-2022.md)
 - Artist and Fans now work together on a 2 way street
 
 [Ava Max](notes/Ava%20Max.md) first new single will use [Avalanche](notes/Avalanche.md) and [$AVAX](notes/$AVAX.md).
-[Avalanche](notes/Avalanche.md) is the future of music and nfts?
+[Avalanche](notes/Avalanche.md) is the future of music and nfts? (haha this was shouted)
