@@ -23,7 +23,6 @@ disableToc: false #no table of contents
 ## Day 3
 [Avalanche Summit 2022 - The State of Guilds and GameFi](notes/Avalanche%20Summit%202022%20-%20The%20State%20of%20Guilds%20and%20GameFi.md)  
 [Avalanche Summit 2022 - The Chikn and the Egg](notes/Avalanche%20Summit%202022%20-%20The%20Chikn%20and%20the%20Egg.md)  
-[Avalanche Summit 2022 - Tokenizing All Assets](notes/Avalanche%20Summit%202022%20-%20Tokenizing%20All%20Assets.md)  
 [Avalanche Summit 2022 - Building for a Multi-Chain Future](notes/Avalanche%20Summit%202022%20-%20Building%20for%20a%20Multi-Chain%20Future.md)  
 [Avalanche Summit 2022 - Composability Maximalism between Cosmos and Avalanche](notes/Avalanche%20Summit%202022%20-%20Composability%20Maximalism%20between%20Cosmos%20and%20Avalanche.md)  
 [Avalanche Summit 2022 - The Future of Avalanche NFTs](notes/Avalanche%20Summit%202022%20-%20The%20Future%20of%20Avalanche%20NFTs.md)  
