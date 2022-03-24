@@ -16,9 +16,9 @@ Written on: [23-03-2022](notes/23-03-2022.md)
 
 ## What is a guild?
 [Yield Guild Games](notes/Yield%20Guild%20Games.md)
-- [Axie Infinity](notes/Axie%20Infinity.md)Scholarships and Managers at scale
+- [Axie Infinity](notes/Axie%20Infinity.md) Scholarships and Managers at scale
 - unable to afford some [NFT](notes/NFT.md)s
-- Educational components
+- Educational components  
 [ReadyPlayerDao](notes/ReadyPlayerDao.md)
 - shift from pure scholar based model to traditional e-sports model
 [Fief Guild](notes/Fief%20Guild.md)
