@@ -27,7 +27,7 @@ disableToc: false #no table of contents
 [Avalanche Summit 2022 - Composability Maximalism between Cosmos and Avalanche](notes/Avalanche%20Summit%202022%20-%20Composability%20Maximalism%20between%20Cosmos%20and%20Avalanche.md)  
 [Avalanche Summit 2022 - The Future of Avalanche NFTs](notes/Avalanche%20Summit%202022%20-%20The%20Future%20of%20Avalanche%20NFTs.md)  
 [Avalanche Summit 2022 - Crypto and the Sovereign State](notes/Avalanche%20Summit%202022%20-%20Crypto%20and%20the%20Sovereign%20State.md)  
-[Avalanche Summit 2022 - The Emergence of New Forms of Government Money](notes/Avalanche%20Summit%202022%20-%20The%20Emergence%20of%20New%20Forms%20of%20Government%20Money.md)  
+
 
 
 ## Unfinished
