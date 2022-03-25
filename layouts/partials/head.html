@@ -1,16 +1,4 @@
 <head>
-
-
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y9ZHY6EFEL"></script>
-    <script>
-  	window.dataLayer = window.dataLayer || [];
-  	function gtag(){dataLayer.push(arguments);}
-  	gtag('js', new Date());
-
-  	gtag('config', 'G-Y9ZHY6EFEL');
-   </script>
-
     <!-- Meta tags -->
     <meta charset="UTF-8">
     <meta name="description" content="{{if .IsHome}}{{$.Site.Data.config.description}}{{else}}{{.Summary}}{{end}}">
@@ -54,6 +42,14 @@
           }))
     </script>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y9ZHY6EFEL"></script>
+    <script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
 
+  	gtag('config', 'G-Y9ZHY6EFEL');
+   </script>
 </head>
 {{ template "_internal/google_analytics.html" . }}
