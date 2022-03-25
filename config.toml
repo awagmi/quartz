@@ -1,6 +1,6 @@
 baseURL = "https://notes.awagmi.xyz/"
 languageCode = "en-us"
-googleAnalytics = "G-Y9ZHY6EFEL"
+gtm_id= "G-Y9ZHY6EFEL"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
