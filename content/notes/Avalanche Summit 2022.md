@@ -28,7 +28,7 @@ disableToc: false #no table of contents
 [Avalanche Summit 2022 - The Future of Avalanche NFTs](notes/Avalanche%20Summit%202022%20-%20The%20Future%20of%20Avalanche%20NFTs.md)  
 [Avalanche Summit 2022 - Crypto and the Sovereign State](notes/Avalanche%20Summit%202022%20-%20Crypto%20and%20the%20Sovereign%20State.md)  
 
-
+ 
 
 ## Unfinished
 ### Day 1
