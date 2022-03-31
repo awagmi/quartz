@@ -20,13 +20,12 @@ URL2: https://www.youtube.com/watch?v=1m12zgJ42dI
 - Critical of [Proof of Stake](notes/Proof%20of%20Stake.md)
 
 ## Which Consensus Mechanism has better Accrual of Monetary Premium 
-[Justin Drake](notes/Justin%20Drake.md)
 
 [Lyn Alden](notes/Lyn%20Alden.md)
 - [Proof of Work](notes/Proof%20of%20Work.md) have to be constantly online, while [Proof of Stake](notes/Proof%20of%20Stake.md) as
 - [Proof of Work](notes/Proof%20of%20Work.md) harder to attack - needs the physical hardware
 - Money should be the simplest, leanest, no bloat. something that’s tries to be everything is not good money 
-
+ 
 
 ## Equities vs Commodities
 [Justin Drake](notes/Justin%20Drake.md)
