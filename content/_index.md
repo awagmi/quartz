@@ -11,6 +11,7 @@ Intern Notes and bonus graph views from the Zettalkasten notetaking style
 2. [Avalanche Q&A with Wildlife Studios - Expanding into Web3 Gaming](notes/Avalanche%20Q&A%20with%20Wildlife%20Studios%20-%20Expanding%20into%20Web3%20Gaming.md)  
 3. [Layer Zero Whitepaper](notes/Layer%20Zero%20Whitepaper.md)
 4. [Avalanche Summit 2022](notes/Avalanche%20Summit%202022.md)
+5. [The PoW vs PoS Debate - Lyn Alden & Justin Drake](notes/The%20PoW%20vs%20PoS%20Debate%20-%20Lyn%20Alden%20&%20Justin%20Drake.md)  
 &nbsp;
 &nbsp;  
 &nbsp;  
