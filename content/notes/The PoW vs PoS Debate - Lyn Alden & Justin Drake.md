@@ -94,7 +94,8 @@ The question posed: How much do people of the world like the [Proof of Work](not
 [Justin Drake](notes/Justin%20Drake.md)
 - Asset needs a Schelling point for it to have monetary premium
 - There is much more money to maintain economic security for [Ethereum](notes/Ethereum.md) compared to [Bitcoin](notes/Bitcoin.md)
-- [Proof of Stake](notes/Proof%20of%20Stake.md) stands out in both quantitative and qualitative standpoint
+- [Proof of Stake](notes/Proof%20of%20Stake.md) stands out in both quantitative and qualitative standpoint  
+
 [Lyn Alden](notes/Lyn%20Alden.md)
 - We want things that are the hardest, most immutable to be money
 - We want things that are held for monetary premium (like gold), not for utility (compared to oil which is used for utility)
