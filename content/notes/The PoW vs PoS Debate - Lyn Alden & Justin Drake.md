@@ -8,10 +8,11 @@ title: The PoW vs PoS Debate - Lyn Alden & Justin Drake
 disableToc: false #no table of contents
 ---
 
-Speaker(s): [Ryan Sean Adams](notes/Ryan%20Sean%20Adams.md), [David Hoffman](notes/David%20Hoffman.md), [Lyn Alden](notes/Lyn%20Alden.md), [Justin Drake](notes/Justin%20Drake.md) &nbsp;
-Held on: [28-03-2022](notes/28-03-2022.md) &nbsp;
-Written on: [30-03-2022](notes/30-03-2022.md) &nbsp;
-URL: https://open.spotify.com/episode/0ME0lB9L7JSwcNTjT3DGlF, https://www.youtube.com/watch?v=1m12zgJ42dI
+Speaker(s): [Ryan Sean Adams](notes/Ryan%20Sean%20Adams.md), [David Hoffman](notes/David%20Hoffman.md), [Lyn Alden](notes/Lyn%20Alden.md), [Justin Drake](notes/Justin%20Drake.md)  
+Held on: [28-03-2022](notes/28-03-2022.md)  
+Written on: [30-03-2022](notes/30-03-2022.md)  
+URL1: https://open.spotify.com/episode/0ME0lB9L7JSwcNTjT3DGlF  
+URL2: https://www.youtube.com/watch?v=1m12zgJ42dI
 
 
 ## Introduction of Guests
