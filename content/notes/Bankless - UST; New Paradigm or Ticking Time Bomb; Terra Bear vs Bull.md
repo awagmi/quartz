@@ -147,7 +147,7 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 ## Nightmare scenario (tail risk events)
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - Big players can monopolize the daily redeeming cap of the Bitcoin reserve, leaving little or none for retail
-	- [Joseph Khan](notes/Joseph%20Khan.md) - whales do have to suffer slippage
+	- [José Maria Macedo](notes/José%20Maria%20Macedo.md) - whales do have to suffer slippage
 - Curve pool can be wiped 
 
 ## Closing Arguments
