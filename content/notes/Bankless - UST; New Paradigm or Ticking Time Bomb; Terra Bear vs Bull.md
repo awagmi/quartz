@@ -121,15 +121,16 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 
 ## Decentralization and Do Kwon
 [Ryan Sean Adams](notes/Ryan%20Sean%20Adams.md): [Do Kwon](notes/Do%20Kwon.md) as a key man risk  
+[José Maria Macedo](notes/José%20Maria%20Macedo.md)
+- Believes in progressive decentralization
+- Stablecoins require good execution to push integrations, usage
+- Thinks [Terra](notes/Terra.md) is doing it right
+  
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - Personally does not want to focus on this, doesn't think it is big deal
 - Thinks that powerful backers kind of kickstarted [$Luna](notes/$Luna.md) growth inorganically
 - 2 main big group building lots of primitives - mixed feelings  
 
-[José Maria Macedo](notes/José%20Maria%20Macedo.md)
-- Believes in progressive decentralization
-- Stablecoins require good execution to push integrations, usage
-- Thinks [Terra](notes/Terra.md) is doing it right
 
 
 ## 4Pool - UST-FRAX-USDC-USDT
@@ -138,7 +139,7 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 - Partnership with [Frax Finance](notes/Frax%20Finance.md) to make it the most liquid pool in [Decentralized Finance](notes/Decentralized%20Finance.md)
 - Being the most liquid is a huge win - not a direct threat to a [$DAI](notes/$DAI.md)
 - Not enough to just maintain the peg, the stablecoin must grow, which is what [$DAI](notes/$DAI.md) is not doing  
-
+  
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - Experimental land, interested to see how it plays out
 - Not sure on [$DAI](notes/$DAI.md) prospects
@@ -151,14 +152,14 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 - Curve pool can be wiped 
 
 ## Closing Arguments
-[Jordi Alexander](notes/Jordi%20Alexander.md) (bear)
-- [$UST](notes/$UST.md) depeg
-- [Layer 1](notes/Layer%201.md) replicates the same mechanism
-- Be aware that big funds are pulling strings
-- Too many variables to get to the conclusion that [$Luna](notes/$Luna.md) will succeed  
-
 [José Maria Macedo](notes/José%20Maria%20Macedo.md)
 - How misunderstood [$Luna](notes/$Luna.md) it still is 
 - Upside is huge for [$UST](notes/$UST.md) as the biggest decentralized stablecoin
 - Model is becoming more and more resilient with [Bitcoin](notes/Bitcoin.md) reserve
 - More and more smart builders are building on [Terra](notes/Terra.md)
+
+[Jordi Alexander](notes/Jordi%20Alexander.md) (bear)
+- [$UST](notes/$UST.md) depeg
+- [Layer 1](notes/Layer%201.md) replicates the same mechanism
+- Be aware that big funds are pulling strings
+- Too many variables to get to the conclusion that [$Luna](notes/$Luna.md) will succeed  
