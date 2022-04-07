@@ -19,6 +19,7 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 - About to be the most liquid with [4pool](notes/4pool.md) on [Curve](notes/Curve.md)
 - [$UST](notes/$UST.md) and [$Luna](notes/$Luna.md) are protocol native tokens of [Terra](notes/Terra.md)
 - Arbitrage opportunities helps [$UST](notes/$UST.md) to retain its peg
+  
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - [$UST](notes/$UST.md) is collaterized by the value of the underlying chain while [$DAI](notes/$DAI.md) is over collaterized
 - Can lead to a death spiral when everyone wants to exit at the same time
@@ -38,6 +39,7 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 - Stablecoins are crypto killer apps.
 - Centralized stablecoins will eventually be regulated away
 - [$UST](notes/$UST.md) is growing the fastest, is already the largest [Algostable](notes/Algostable.md) by marketcap while [$DAI](notes/$DAI.md) is actually declining
+  
 [Jordi Alexander](notes/Jordi%20Alexander.md) (bearish)
 - [$Luna](notes/$Luna.md): Doesn't hope [$Luna](notes/$Luna.md) to fail, no positions on [$Luna](notes/$Luna.md), but has money in anchor
 - Thinks [Anchor Protocol](notes/Anchor%20Protocol.md) is currently an unsustainable marketing spend 
@@ -50,6 +52,7 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 - [Algostable](notes/Algostable.md) are more of a demand problem compared to a mechanism design problem
 - Money is used for spending, or deferred spending. Ecosystem around [$UST](notes/$UST.md): [Mirror](notes/Mirror.md) - Synthetic Assets, [Mars Protocol](notes/Mars%20Protocol.md) - Credit protocol, and so on
 - Important for [Algostable](notes/Algostable.md)s to have utility, as seen from [Fei Protocol](notes/Fei%20Protocol.md) and [Rari Capital](notes/Rari%20Capital.md) merger
+  
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - [Anchor Protocol](notes/Anchor%20Protocol.md) 20% APY is sort of a ponzi incentive to get people onto [Terra](notes/Terra.md)
 - [Chai](notes/Chai.md), a way to spend [$UST](notes/$UST.md) in real life, was a good experiment but didnt work out well
@@ -70,6 +73,7 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 - 7-12% real yield without yield reserve
 	- Best place to borrow and lend [Layer 1](notes/Layer%201.md) assets
 	- Also depends on [$ANC](notes/$ANC.md) token incentives and price
+  
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - [Anchor Protocol](notes/Anchor%20Protocol.md) 20% APY is sort of a ponzi incentive to get people onto [Terra](notes/Terra.md)
 	- 20% APY is being propped up by [Luna Foundation Guard](notes/Luna%20Foundation%20Guard.md) from [$Luna](notes/$Luna.md) in the treasury and propping up the interest rates to keep it at 20%.
@@ -81,6 +85,8 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 - Hard to deny that the model does not work
 - To move to the next stage of trust and adoption, [Bitcoin](notes/Bitcoin.md) is required to scale further
 - Growth of the model, rather than an admission 
+
+
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - Pretty universally agreed that having [Bitcoin](notes/Bitcoin.md) as collateral is a good move
 
@@ -98,6 +104,7 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 	- Is 3 billion enough? No one knows
 	- Psychological impact is huge
 - [Lindy Effect](notes/Lindy%20Effect.md) and network effects can help [$Luna](notes/$Luna.md) prolong its lifespan
+  
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - Reduction in [$UST](notes/$UST.md) demand because of decrease of [Anchor Protocol](notes/Anchor%20Protocol.md) yields
 	- [Terra](notes/Terra.md) is buying time for [$UST](notes/$UST.md) to get wider adoption outside of [$UST](notes/$UST.md)
@@ -117,7 +124,8 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - Personally does not want to focus on this, doesn't think it is big deal
 - Thinks that powerful backers kind of kickstarted [$Luna](notes/$Luna.md) growth inorganically
-- 2 main big group building lots of primitives - mixed feelings
+- 2 main big group building lots of primitives - mixed feelings  
+
 [José Maria Macedo](notes/José%20Maria%20Macedo.md)
 - Believes in progressive decentralization
 - Stablecoins require good execution to push integrations, usage
@@ -129,7 +137,8 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 [José Maria Macedo](notes/José%20Maria%20Macedo.md)
 - Partnership with [Frax Finance](notes/Frax%20Finance.md) to make it the most liquid pool in [Decentralized Finance](notes/Decentralized%20Finance.md)
 - Being the most liquid is a huge win - not a direct threat to a [$DAI](notes/$DAI.md)
-- Not enough to just maintain the peg, the stablecoin must grow, which is what [$DAI](notes/$DAI.md) is not doing
+- Not enough to just maintain the peg, the stablecoin must grow, which is what [$DAI](notes/$DAI.md) is not doing  
+
 [Jordi Alexander](notes/Jordi%20Alexander.md)
 - Experimental land, interested to see how it plays out
 - Not sure on [$DAI](notes/$DAI.md) prospects
@@ -146,7 +155,8 @@ URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
 - [$UST](notes/$UST.md) depeg
 - [Layer 1](notes/Layer%201.md) replicates the same mechanism
 - Be aware that big funds are pulling strings
-- Too many variables to get to the conclusion that [$Luna](notes/$Luna.md) will succeed 
+- Too many variables to get to the conclusion that [$Luna](notes/$Luna.md) will succeed  
+
 [José Maria Macedo](notes/José%20Maria%20Macedo.md)
 - How misunderstood [$Luna](notes/$Luna.md) it still is 
 - Upside is huge for [$UST](notes/$UST.md) as the biggest decentralized stablecoin
