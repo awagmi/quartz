@@ -3,7 +3,7 @@ title: Bankless - UST; New Paradigm or Ticking Time Bomb; Terra Bear vs Bull
 disableToc: false #no table of contents
 ---
 
-Speaker(s): [David Hoffman](notes/David%20Hoffman.md), [Ryan Sean Adams](notes/Ryan%20Sean%20Adams.md), [José Maria Macedo](notes/Jos%C3%A9%20Maria%20Macedo.md), [Jordi Alexander](notes/Jordi%20Alexander.md)   
+Speaker(s): [David Hoffman](notes/David%20Hoffman.md), [Ryan Sean Adams](notes/Ryan%20Sean%20Adams.md), [José Maria Macedo](notes/José%20Maria%20Macedo.md), [Jordi Alexander](notes/Jordi%20Alexander.md)   
 Held on: [06-04-2022](notes/06-04-2022.md)  
 Written On: [06-04-2022](notes/06-04-2022.md)  
 URL: https://www.youtube.com/watch?v=6eOU5OaKd8s
